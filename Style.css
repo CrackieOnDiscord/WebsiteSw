@@ -8,8 +8,8 @@ html, body{
 }
 
 body{
-    background-color:#ff00bf;
-    background-image: url(background.jpg);
+    background-color:#d400006c;
+    background-image: url(/Users/ankef/Downloads/astolfo.jpg);
     background-position:center;
     background-size:cover;
     background-blend-mode:soft-light;
@@ -44,7 +44,7 @@ body{
     height: 50px;
     border: 3px solid rgb(255, 0, 0);
     background-color:rgba(255,255,255,0);
-    color: rgb(67, 0, 112);
+    color: rgb(255, 255, 255);
     font-family: sans-serif;
     font-weight: bold;
     border-radius: 5px;
@@ -52,7 +52,7 @@ body{
     transition: background-color 1000ms, color 1000ms;
 }
 .Download:hover{
-    background-color:rgb(16, 0, 109);
+    background-color:rgb(255, 0, 0);
     color:#222;
     cursor:pointer;
     transition: background-color 1000ms, color 1000ms;
