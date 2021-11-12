@@ -8,7 +8,7 @@ html, body{
 }
 
 body{
-    background-color:#2f00ff;
+    background-color:#ff00bf;
     background-image: url(background.jpg);
     background-position:center;
     background-size:cover;
@@ -25,7 +25,7 @@ body{
 .title1{
     display: block;
     text-align: center;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 68pt;
     font-family: big john;
 }
@@ -33,7 +33,7 @@ body{
     display: block;
     margin-top: 15px;
     text-align: center;
-    color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 14pt;
     font-family: serif;
 }
@@ -44,7 +44,7 @@ body{
     height: 50px;
     border: 3px solid rgb(255, 0, 0);
     background-color:rgba(255,255,255,0);
-    color: rgb(112, 0, 0);
+    color: rgb(67, 0, 112);
     font-family: sans-serif;
     font-weight: bold;
     border-radius: 5px;
@@ -52,7 +52,7 @@ body{
     transition: background-color 1000ms, color 1000ms;
 }
 .Download:hover{
-    background-color:rgb(255, 0, 0);
+    background-color:rgb(16, 0, 109);
     color:#222;
     cursor:pointer;
     transition: background-color 1000ms, color 1000ms;
