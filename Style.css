@@ -9,7 +9,7 @@ html, body{
 
 body{
     background-color:#2f00ff;
-    background-image: url(Background.jpg);
+    background-image: url(background.jpg);
     background-position:center;
     background-size:cover;
     background-blend-mode:soft-light;
